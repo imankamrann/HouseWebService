@@ -1,0 +1,11 @@
+/Users/iman/Lab2WebService/MarketPlace/bin/Release/net8.0/publish/MarketPlace
+/Users/iman/Lab2WebService/MarketPlace/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/iman/Lab2WebService/MarketPlace/bin/Release/net8.0/publish/appsettings.json
+/Users/iman/Lab2WebService/MarketPlace/bin/Release/net8.0/publish/MarketPlace.dll
+/Users/iman/Lab2WebService/MarketPlace/bin/Release/net8.0/publish/MarketPlace.deps.json
+/Users/iman/Lab2WebService/MarketPlace/bin/Release/net8.0/publish/MarketPlace.runtimeconfig.json
+/Users/iman/Lab2WebService/MarketPlace/bin/Release/net8.0/publish/MarketPlace.pdb
+/Users/iman/Lab2WebService/MarketPlace/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/iman/Lab2WebService/MarketPlace/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/iman/Lab2WebService/MarketPlace/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/iman/Lab2WebService/MarketPlace/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
